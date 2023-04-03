@@ -10,10 +10,10 @@ DBsimilarity is a method proposed in a scientific paper to help natural product 
   a. users will be suggested to create an environment for RDKit
   b. users must install all the dependencies inside the newly created RDKit environment
 
-2. Then, from the Anaconda Prompt, type: 
+3. Then, from the Anaconda Prompt, type: 
   * cd [_environment name_]/bin
   * source activate
   
-3. Open Jupyter Notebook 
+4. Open Jupyter Notebook 
   * Users might want to open Jupyter Notebook directly on the directory they want to work on
   a. to open Jupyter Notebook on a specific directory, users can type: jupyter notebook [e.g. D:\Github || _desired path_]
